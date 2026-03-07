@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: Ycs25's Homepage
-description: Skills and porjects list
+theme: minima
+title: Yicheng Su | Data Science Portfolio
+description: >-
+  Data Science Master Candidate in Kent State Universtiy, focus on Big Data, Database, and Data Mining.
+  With a master's degree in Applied Mathematics, I specialize in Statistical Inference, Regression Models, Machine Learning and Data Visualization.
+
+github_username: ycs25
+linkedin_username: Yicheng Su
+
+baseurl: ""
+url: "https://ycs25.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
