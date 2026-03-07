@@ -13,14 +13,17 @@ I also have many years of university-level math teaching experience as a graduat
 * **Technology**: Python (Pandas, Seaborn, Streamlit, Plotly), SQLite & Peewee
 * **Description**: Constructed interactive Web application that visualize global measles case distributions and seasonal trends.
 * [GitHub Repo](https://github.com/ycs25/database_project)
+
 ### Heart Disease Risk Classification Pipeline
 * **Technology**: Pandas for data cleaning, Matplotlib/Seaborn for EDA, Scikit-learn for classification and cross validation
 * **Description**: Based on Kaggle heart disease dataset, applied thorough data preprocessing and exploratory analysis, encoded and rescaled data for classification models, and evaluated models with cross validations.
 * [Colab Notebook](https://colab.research.google.com/drive/1A4qqdIs8NN2hJGCGvqmYHLwtQ81rbX7q?usp=sharing)
+
 ### Traffic Crash Cause Statistical Analysis
 * **Technology**: R (Tidyverse, caret, pROC) for data cleaning, statistical inference, EDA, and logistic regression
 * **Description**: Cleaned messy crash records, investigated crash causes with EDA and statistical inference, modeled core factor of casualty with logistic regression.
 * [Kaggle Notebook](https://www.kaggle.com/code/skoflt25/car-collision-analysis-with-r)
+
 ### Comparative Analysis of SQL Injection Detectors (WIP)
 
 ## Skills

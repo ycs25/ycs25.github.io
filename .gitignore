@@ -1,0 +1,13 @@
+# Sites made by docker
+_site/
+
+# Jekyll files
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby and Bundler related
+.bundle/
+vendor/
+Gemfile.lock
+
+*.log
