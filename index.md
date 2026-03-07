@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+About Me
 
 I am a Data Science Master Candidate at Kent State University. I am currently focusing on Big Data, Database and Data Mining. With a MS in Applied Mathematics, I have a solid foundation in Statistical Inference, Regression Models, Machine Learning and Data Visualization.
 
@@ -27,7 +28,3 @@ I also have many years of university-level math teaching experience as a graduat
 * **Databases & Infrastructures**: PostgreSQL, ORM(Peewee, Dataset), MongoDB, Git, Docker, IDEs
 * **Data Visualization**: Python (Streamlit, Matplotlib, Seaborn, Plotly, Pydeck), R (Tidyverse)
 * **Domain Knowledge**: Statistical Inference, Machine Learning, Information Security, Curriculum Development
-
-## Contacts
-* [GitHub](https://github.com/ycs25)
-* [LinkedIn](https://www.linkedin.com/in/yicheng-su-83749132a/) 
