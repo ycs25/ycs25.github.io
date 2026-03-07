@@ -1,4 +1,7 @@
-## About Me
+---
+layout: default
+---
+
 I am a Data Science Master Candidate at Kent State University. I am currently focusing on Big Data, Database and Data Mining. With a MS in Applied Mathematics, I have a solid foundation in Statistical Inference, Regression Models, Machine Learning and Data Visualization.
 
 I also have many years of university-level math teaching experience as a graduate teaching assistant. The fast evolving AI and evergrowing data have convinced me that they are the keys for the evolution of education. This drives me to start my journey of Data Science. I believe the analytical and problem-solving skills I have are universal, ready to drive innovation not just in EdTech, but across a wide spectrum of industries.
