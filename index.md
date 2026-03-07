@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-About Me
+## About Me
 
 I am a Data Science Master Candidate at Kent State University. I am currently focusing on Big Data, Database and Data Mining. With a MS in Applied Mathematics, I have a solid foundation in Statistical Inference, Regression Models, Machine Learning and Data Visualization.
 
