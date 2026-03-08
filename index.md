@@ -7,6 +7,12 @@ I am a Data Science Master Candidate at Kent State University. I am currently fo
 
 I also have many years of university-level math teaching experience as a graduate teaching assistant. The fast evolving AI and evergrowing data have convinced me that they are the keys for the evolution of education. This drives me to start my journey of Data Science. I believe the analytical and problem-solving skills I have are universal, ready to drive innovation not just in EdTech, but across a wide spectrum of industries.
 
+## Skills
+* **Programming Languages**: R, Python, SQL, HTML/CSS/JavaScript, C++
+* **Databases & Infrastructures**: PostgreSQL, ORM(Peewee, Dataset), MongoDB, Git, Docker, IDEs
+* **Data Visualization**: Python (Streamlit, Matplotlib, Seaborn, Plotly, Pydeck), R (Tidyverse)
+* **Domain Knowledge**: Statistical Inference, Machine Learning, Information Security, Curriculum Development
+
 ## Data Science Projects
 
 ### Global Measles Outbreak Visualization Platform
@@ -26,9 +32,3 @@ I also have many years of university-level math teaching experience as a graduat
 * [Kaggle Notebook](https://www.kaggle.com/code/skoflt25/car-collision-analysis-with-r)
 
 ### Comparative Analysis of SQL Injection Detectors (WIP)
-
-## Skills
-* **Programming Languages**: R, Python, SQL, HTML/CSS/JavaScript, C++
-* **Databases & Infrastructures**: PostgreSQL, ORM(Peewee, Dataset), MongoDB, Git, Docker, IDEs
-* **Data Visualization**: Python (Streamlit, Matplotlib, Seaborn, Plotly, Pydeck), R (Tidyverse)
-* **Domain Knowledge**: Statistical Inference, Machine Learning, Information Security, Curriculum Development
