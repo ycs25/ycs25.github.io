@@ -13,6 +13,7 @@ I also have many years of university-level math teaching experience as a graduat
 * **Technology**: Python (Pandas, Seaborn, Streamlit, Plotly), SQLite & Peewee
 * **Description**: Constructed interactive Web application that visualize global measles case distributions and seasonal trends.
 * [GitHub Repo](https://github.com/ycs25/database_project)
+* [Streamlit App](https://databaseproject-c7wbjsyhs2pfbftutsg4gv.streamlit.app/)
 
 ### Heart Disease Risk Classification Pipeline
 * **Technology**: Pandas for data cleaning, Matplotlib/Seaborn for EDA, Scikit-learn for classification and cross validation
