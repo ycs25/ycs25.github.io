@@ -32,3 +32,7 @@ I also have many years of university-level math teaching experience as a graduat
 * [Kaggle Notebook](https://www.kaggle.com/code/skoflt25/car-collision-analysis-with-r)
 
 ### Comparative Analysis of SQL Injection Detectors (WIP)
+Different SQLi detections tools have different injection techniques, target database types and interfaces(GUI vs CLI). A comprehensive comparison of those tools helps build a reproducible benchmark that can systematically evalutate detection tools.
+
+### Edge-Cloud Collaborative Anomaly Detection for CNC Machining with Continuous Learning (WIP)
+This project involves building a supervised machine learning system within an IoT Edge-Cloud collaborative architecture to classify [CNC machining cycles](https://www.kaggle.com/datasets/maximilianfellhuber/cnc-machining-data) as "Good" or "Bad". A key focus is the implementation of an MLOps pipeline that handles Data Drift through continuous learning, ensuring the classifier remains accurate as mechanical components age or operational conditions shift.
