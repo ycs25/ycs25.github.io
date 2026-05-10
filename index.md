@@ -11,6 +11,7 @@ I also have many years of university-level math teaching experience as a graduat
 * **Programming Languages**: R, Python, SQL, HTML/CSS/JavaScript, C++
 * **Databases & Infrastructures**: PostgreSQL, ORM(Peewee, Dataset), MongoDB, Git, Docker, IDEs
 * **Data Visualization**: Python (Streamlit, Matplotlib, Seaborn, Plotly, Pydeck), R (Tidyverse)
+* **Predictive Modeling**: Python (Pytorch, Scikit-learn), R (glmnet, keras3)
 * **Domain Knowledge**: Statistical Inference, Machine Learning, Information Security, Curriculum Development
 
 ## Data Science Projects
@@ -31,9 +32,15 @@ I also have many years of university-level math teaching experience as a graduat
 * **Description**: Cleaned messy crash records, investigated crash causes with EDA and statistical inference, modeled core factor of casualty with logistic regression.
 * [Kaggle Notebook](https://www.kaggle.com/code/skoflt25/car-collision-analysis-with-r)
 
-### Comparative Analysis of SQL Injection Detectors (WIP)
-Different SQLi detections tools have different injection techniques, target database types and interfaces(GUI vs CLI). A comprehensive comparison of those tools helps build a reproducible benchmark that can systematically evalutate detection tools.
+### Comparative Analysis of SQL Injection Detectors
+* **Technology**: Docker, SQLMap, Ghauri, JSQL, Web Apps (DVWA, bWAPP, Juice Shop, WebGoat)
+* **Description**: Engineered a systematic benchmark using Dockerized environments to evaluate the detection accuracy, payload evasion, and architectural adaptability of four automated SQL injection scanners across traditional PHP and modern API-driven architectures.
+* [GitHub Repo](https://github.com/ycs25/SQL_injection_detector_comparison)
 
-### Edge-Cloud Collaborative Anomaly Detection for CNC Machining with Continuous Learning (WIP)
-This project involves building a supervised machine learning system within an IoT Edge-Cloud collaborative architecture to detect abnormal vibrations in [CNC machining cycles](https://www.kaggle.com/datasets/maximilianfellhuber/cnc-machining-data). A key focus is the implementation of an MLOps pipeline that handles Data Drift through continuous learning, ensuring the classifier remains accurate as mechanical components age or operational conditions shift. And with the Edge-Cloud framework, edge devices collect data and prepreocess, while the cloud runs trained model with clean data and outputs immediate detections which is posted on the dashboard.
+### Edge-Cloud Collaborative Anomaly Detection for CNC Machining with Continuous Learning
+* **Technology**: Python (PyTorch, NumPy, Pandas) for Time-series preprocessing, Neural Network training/validation/evaluation, Flask for edge-cloud simulation, (Sqlite, Streamlit) for Dashboard demonstration
+* **Description**: Designed an edge-cloud framework which preprocesses high frequency IoT data on edge and detect anomaly on central cloud, trained an autoencoder neural network that detect abnormal CNC machining cycles with continous learning ability, built a Dashboard Webapp for visualization.
+* **My Role**: Framework/workflow design, model training/validation/evaluation, report writing
+* [CNC Machining Data](https://www.kaggle.com/datasets/maximilianfellhuber/cnc-machining-data)
+* [GitHub Repo](https://github.com/ycs25/edge_TS_preprocess)
 * [Streamlit Dashboard](https://diffusionexample-5y4bhysmu8qdbvkbyvv4aw.streamlit.app/)
